@@ -1,0 +1,22 @@
+<svg id="_1" data-name="1" xmlns="http://www.w3.org/2000/svg" width="50" height="35" viewBox="0 0 50 35">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        fill: #ffb40c;
+      }
+    </style>
+  </defs>
+  <circle id="_9" data-name="9" class="cls-1" cx="47.5" cy="32.5" r="2.5"/>
+  <circle id="_8" data-name="8" class="cls-2" cx="32.5" cy="32.5" r="2.5"/>
+  <circle id="_7" data-name="7" class="cls-2" cx="17.5" cy="32.5" r="2.5"/>
+  <circle id="_6" data-name="6" class="cls-2" cx="2.5" cy="32.5" r="2.5"/>
+  <circle id="_5" data-name="5" class="cls-2" cx="32.5" cy="17.5" r="2.5"/>
+  <circle id="_4" data-name="4" class="cls-1" cx="17.5" cy="17.5" r="2.5"/>
+  <circle id="_3" data-name="3" class="cls-2" cx="2.5" cy="17.5" r="2.5"/>
+  <circle id="_2" data-name="2" class="cls-2" cx="17.5" cy="2.5" r="2.5"/>
+  <circle id="_1-2" data-name="1" class="cls-2" cx="2.5" cy="2.5" r="2.5"/>
+</svg>
